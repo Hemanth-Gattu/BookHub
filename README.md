@@ -50,5 +50,6 @@ $ python manage.py runserver
 
 | Name                                            | Roll Number | Year      | Department             |
 | ----------------------------------------------- | ----------- | --------- | ---------------------- |
-| [Sujitha Guvvala](https://github.com/SujithaGuvvala) | B19EE033   | Sophomore | Electrical Engineering |
 | [Hemanth Gattu](https://github.com/Hemanth-Gattu)    | B19EE030    | Sophomore | Electrical Engineering |
+| [Sujitha Guvvala](https://github.com/SujithaGuvvala) | B19EE033   | Sophomore | Electrical Engineering |
+
